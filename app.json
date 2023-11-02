@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "smoothride",
+    "slug": "sm-firstapp",
+    "version": "4.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      [
+        "expo-notifications"
+      ]
+    ],
+    "splash": {
+      "image": "./assets/images/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#005091"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "permission": [
+        "com.google.android.gms.permission.AD_ID"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyAsjKM16fbsmVRNU4jlrhn3yinTyu3z5JU"
+        }
+      },
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.bcodestech.smfirstapp",
+      "versionCode": 5,
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "09338545-8370-4541-bfb9-e82f74a6a855"
+      }
+    }
+  }
+}

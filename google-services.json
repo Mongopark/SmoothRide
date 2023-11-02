@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991633763513",
+    "project_id": "smoothridelatest-8d688",
+    "storage_bucket": "smoothridelatest-8d688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991633763513:android:2972281c660f3b9df57f68",
+        "android_client_info": {
+          "package_name": "com.bcodestech.smfirstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991633763513-uguqine4eip64gtiuivanr8nbfh44l7f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAnaOAC3QJHTRvRKyLfmEEz_X8MogzocE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991633763513-uguqine4eip64gtiuivanr8nbfh44l7f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
